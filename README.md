@@ -1,12 +1,13 @@
 # MyFirstDjangoProject
 
 1. Install required packages
-pip3 install django==1.11
 
-pip3 install djangorestframework
+[1.1] pip3 install django==1.11
 
-pip3 install django-rest-framework-mongoengine
+[1.2] pip3 install djangorestframework
 
-pip3 install pymongo
+[1.3] pip3 install django-rest-framework-mongoengine
 
-pip3 install mongoengine
+[1.4] pip3 install pymongo
+
+[1.5] pip3 install mongoengine
